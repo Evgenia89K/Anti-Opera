@@ -1,2 +1,2 @@
 # Anti-Opera
-"antivirus"
+"Anti-Operation" is an antivirus that closes the "opera" browser when it is detected.
